@@ -6,6 +6,7 @@ Personal list of awesome things
 ## Linux
 
 - list of [awesome sysadmin](https://github.com/kahun/awesome-sysadmin)
+- list of [awesome self-hosted](https://github.com/Kickball/awesome-selfhosted)
 - devops wiki [devopswiki](https://github.com/Leo-G/DevopsWiki)
 - AMAZING free server monitor [netdata](https://github.com/firehol/netdata)
 - log viewer [log.io](https://github.com/NarrativeScience/Log.io)
@@ -15,6 +16,7 @@ Personal list of awesome things
 - dynamic dns [dynu](https://www.dynu.com/)
 - network monitor [PRTG](https://www.paessler.com/prtg)
 - list of [awesome shell](https://github.com/alebcay/awesome-shell)
+- master [art of commandline](https://github.com/jlevy/the-art-of-command-line)
 
 - Server hardening
   - security auditing tool [lynis](https://github.com/CISOfy/lynis)
@@ -62,6 +64,7 @@ Personal list of awesome things
   
 ## Markdown/Text Processing
 
+- list of [awesome markdown](https://github.com/BubuAnabelas/awesome-markdown)
 - sensible [vim defaults](https://github.com/tpope/vim-sensible)
 - learn latex [begin latex](https://github.com/luongvo209/Begin-Latex-in-minutes)
 - rst [cheat-sheet](https://github.com/ralsina/rst-cheatsheet)
@@ -103,6 +106,8 @@ Plex - for music, movies, tv series
 
 SOGo - as a cardav and caldav server
 
+[lets chat](https://github.com/sdelements/lets-chat) self-hosted team chat
+
 ISP Mail (google it) - as a personal mail server for all my domains;
 
 VTiger - for CRM
@@ -139,13 +144,17 @@ Webmin - in some servers, to make it easier to administrate
 
 Wordpress - for my blogs and websites
 
+[Flarum](https://github.com/mondediefr/docker-flarum) forum software
+
 ## Windows
 
 - Productivity
+  - list of [awesome productivity](https://github.com/jyguyomarch/awesome-productivity)
   - keyboard macros [autohotkey](https://autohotkey.com/)
+  - list of [awesome autohotkey](https://github.com/ahkscript/awesome-AutoHotkey)
   - macro creator [pulover](https://github.com/Pulover/PuloversMacroCreator)
   - text snippets [lintalist](https://github.com/lintalist/lintalist)
-  - todo.txt
+  - todo.txt [todotxt-machine](https://github.com/AnthonyDiGirolamo/todotxt-machine)
 - Cleanup
   - Good [Ccleaner](https://www.ccleaner.com)
 - Antivirus/malware
@@ -155,6 +164,7 @@ Wordpress - for my blogs and websites
   - Removing stupid mcafee [MCPR](http://us.mcafee.com/apps/supporttools/mcpr/mcpr.asp)
 - Passwords
   - KeepassX
+  - [Keepassweb](https://github.com/keeweb/keeweb)
   - Enpass
 - File synchronization
   - [syncthing](https://github.com/syncthing/syncthing)
@@ -172,6 +182,9 @@ Wordpress - for my blogs and websites
   - More windows utilities [windows tools](https://github.com/dloss/windows-tools-on-cdrom)
   - Good remote vnc (5 devices home free) [realvnc](https://www.realvnc.com/)
   - Good remote vnc  [teamviewer](https://www.teamviewer.us/latest-version/)
+  - USB flashdriver maker [etcher](https://etcher.io)
+  - Windows flashdriver maker [rufus]()
+  - other flashdriver maker [pendrivelinux]()
 
   
 ## Voip
@@ -182,6 +195,7 @@ Wordpress - for my blogs and websites
 ## Coding
 
 - [free programming books](https://github.com/EbookFoundation/free-programming-books)
+- [best sites for programmers](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 - [hackathon-starter](https://github.com/sahat/hackathon-starter)
 - [development environment](https://github.com/jondot/awesome-devenv)
 - [every programmer should know](https://github.com/mtdvio/every-programmer-should-know)
@@ -201,6 +215,7 @@ Wordpress - for my blogs and websites
 - [front-end checklist](https://github.com/thedaviddias/Front-End-Checklist)
 - [html-reference](https://github.com/jgthms/html-reference)
 - [css-reference](https://github.com/jgthms/css-reference)
+- [js-spellbook](https://github.com/dexteryy/spellbook-of-modern-webdev)
 - [js cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 - [css pro tips](https://github.com/AllThingsSmitty/css-protips)
 - [you don't know js](https://github.com/getify/You-Dont-Know-JS)
